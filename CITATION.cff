@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+preferred-citation:
+  type: unpublished
+  authors:
+  - family-names: "Mlinarić"
+    given-names: "Petar"
+    orcid: "https://orcid.org/0000-0002-9437-7698"
+  - family-names: "Gugercin"
+    given-names: "Serkan"
+    orcid: "https://orcid.org/0000-0003-4564-5999"
+  doi: "10.48550/arXiv.2209.00714"
+  note: "arXiv preprint 2209.00714"
+  title: "A Unifying Framework for Interpolatory {$\\mathcal{L}_2$}-optimal Reduced-order Modeling"
+  year: 2022
