@@ -5,6 +5,7 @@ This repository contains code for numerical experiments reported in
 > P. Mlinarić, S. Gugercin,
 > **A Unifying Framework for Interpolatory $\mathcal{L}_2$-optimal Reduced-order
 > Modeling**,
+> [*arXiv preprint*](https://arxiv.org/abs/2209.00714),
 > 2022
 
 ## Installation
